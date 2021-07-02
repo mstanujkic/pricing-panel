@@ -1,8 +1,7 @@
 # Pricing panel
 
-My first HTML & CSS project.
+Pokemon Project using HTML, CSS & JavaScript.
 
+![Alt text](/Pokemon.jpg?raw=true "Pokemon")
 
-![Alt text](/PricingPanel.jpg?raw=true "Pricing panel")
-
-Source: Udemy - The Web Developer Bootcamp 2020 by Colt Steele
+Source: Udemy - The Web Developer Bootcamp 2021 by Colt Steele
